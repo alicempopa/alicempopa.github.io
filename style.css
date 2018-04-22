@@ -47,6 +47,10 @@ h1 {
 	display: flex; 
 } 
 
+.upper_body {
+	color: aliceblue;
+}
+
 .left_arm, .right_arm { 
 	width: 40px; 
 	height: 125px;
