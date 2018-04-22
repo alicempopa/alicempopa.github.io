@@ -33,7 +33,7 @@ h1 {
 .eyes:hover {
 	width: 25px;
 	height: 25px;
-	color: red;
+	background-color: red;
 }
 
 .head:hover {
