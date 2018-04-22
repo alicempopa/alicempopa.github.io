@@ -30,6 +30,12 @@ h1 {
 	display: flex;
 }
 
+.eyes:hover {
+	width: 25px;
+	height: 25px;
+	color: red;
+}
+
 .head:hover {
 	width: 300px;
     	transition: 1s ease-in-out;
